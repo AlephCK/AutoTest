@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b5ea19b-417b-4a9d-919f-b1a0fec4f5ff" name="Default Changelist" comment="" />
+    <list default="true" id="0b5ea19b-417b-4a9d-919f-b1a0fec4f5ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomeGBH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomeGBH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test_cases/TestGBH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test_cases/TestGBH.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +29,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UqIPFKwvXFRdW2JV7AjdMNEWC0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,18 +38,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="TestNG.Tests">
-    <configuration name="Tests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tests" />
+  <component name="RunManager" selected="TestNG.TestGBH (2)">
+    <configuration name="TestGBH (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutoTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_cases" />
+      <option name="MAIN_CLASS_NAME" value="test_cases.TestGBH" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -49,24 +56,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tests.setUp (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGBH (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Tests" />
-      <option name="METHOD_NAME" value="setUp" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_cases" />
+      <option name="MAIN_CLASS_NAME" value="test_cases.TestGBH" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tests.setUp" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestGBH (4)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Tests" />
-      <option name="METHOD_NAME" value="setUp" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_cases" />
+      <option name="MAIN_CLASS_NAME" value="test_cases.TestGBH" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGBH (5)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_cases" />
+      <option name="MAIN_CLASS_NAME" value="test_cases.TestGBH" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGBH" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test_cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test_cases" />
+      <option name="MAIN_CLASS_NAME" value="test_cases.TestGBH" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -75,10 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Tests" />
-        <item itemvalue="TestNG.Tests.setUp" />
-        <item itemvalue="TestNG.Tests.setUp (1)" />
-        <item itemvalue="Application.Tests" />
+        <item itemvalue="TestNG.TestGBH (2)" />
+        <item itemvalue="TestNG.TestGBH" />
+        <item itemvalue="TestNG.TestGBH (1)" />
+        <item itemvalue="TestNG.TestGBH (5)" />
+        <item itemvalue="TestNG.TestGBH (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -108,45 +160,61 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="291" key="GridCell.Tab.0.bottom" timestamp="1576091070466">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576158761989">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="291" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576091070466" />
-    <state width="1323" height="291" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576083579165" />
-    <state width="1323" height="291" key="GridCell.Tab.0.center" timestamp="1576091070465">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576158761989" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1576179196068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="291" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576091070465" />
-    <state width="1323" height="291" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576083579165" />
-    <state width="1323" height="291" key="GridCell.Tab.0.left" timestamp="1576091070465">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576177181898" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576179196068" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1576179196063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="291" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576091070465" />
-    <state width="1323" height="291" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576083579165" />
-    <state width="1323" height="291" key="GridCell.Tab.0.right" timestamp="1576091070465">
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576177181898" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576179196063" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1576179196063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="291" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576091070465" />
-    <state width="1323" height="291" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576083579165" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576079736216">
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576177181897" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576179196063" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1576179196063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576079736216" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576079736215">
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576177181898" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576179196063" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1576100691385">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576079736215" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576079736215">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576100691385" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1576100691384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576079736215" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576079736215">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576100691384" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1576100691384">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576079736215" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576100691384" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1576100691385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576100691385" />
     <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1576083047389">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1576083047389" />
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576162837766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576162837766" />
+    <state x="65" y="59" key="new project wizard" timestamp="1576093199731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="59" key="new project wizard/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576093199731" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1576163761140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1576163761140" />
   </component>
 </project>
