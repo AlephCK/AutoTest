@@ -81,15 +81,15 @@ public class HomeGBH {
         this.clickPortfolio();
     }
 
-    public void accessToMeetUs(){
+    public void accessToMeetUs() {
         this.clickMeetUs();
     }
 
-    public void accessToJobs(){
+    public void accessToJobs() {
         this.clickJobs();
     }
 
-    public void accessToBlog(){
+    public void accessToBlog() {
         this.clickBlog();
     }
 

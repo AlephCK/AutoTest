@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b5ea19b-417b-4a9d-919f-b1a0fec4f5ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BlogGBH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HomeGBH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/JobsGBH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MeetUsGBH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/PortfolioGBH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ServiceGBH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test_cases/TestGBH.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomeGBH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomeGBH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test_cases/TestGBH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test_cases/TestGBH.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

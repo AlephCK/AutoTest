@@ -29,7 +29,7 @@ public class TestGBH {
         driver.get("https://gbh.com.do/");
     }
 
-    @Test (priority = 0)
+    @Test(priority = 0)
     public void test_Website_Appear_Correct() {
         objHome = new HomeGBH(driver);
         String homePageTitle = objHome.getTitle();
